@@ -1,6 +1,7 @@
 # 𝗛𝗶 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝘕𝘪𝘭𝘰𝘣𝘰𝘭 𝘊𝘰𝘵𝘩𝘴𝘢𝘸𝘢𝘵
-𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳
--------------
+
+𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 .
+
 🌱 𝘪'𝘷𝘦 𝘣𝘦𝘦𝘯 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘵𝘰 𝘤𝘰𝘥𝘦 𝘧𝘰𝘳 5 𝘺𝘦𝘢𝘳𝘴, 𝘐 𝘴𝘵𝘢𝘳𝘵𝘦𝘥 𝘸𝘪𝘵𝘩 𝘏𝘛𝘔𝘓, 𝘣𝘶𝘵 𝘩𝘢𝘷𝘦 𝘳𝘦𝘢𝘭𝘭𝘺 𝘧𝘰𝘶𝘯𝘥 𝘢 𝘱𝘢𝘴𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘣𝘢𝘤𝘬𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵
 
 *   🌍  𝘐'𝘮 𝘣𝘢𝘴𝘦𝘥 𝘪𝘯 𝘗𝘢𝘵𝘩𝘶𝘮 𝘛𝘩𝘢𝘯𝘪, 𝘛𝘩𝘢𝘪𝘭𝘢𝘯𝘥
@@ -17,7 +18,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
+
 𝘚𝘰𝘤𝘪𝘢𝘭𝘴
+
 <p align="left">
 <a href="https://www.github.com/boeiing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/boeiing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
