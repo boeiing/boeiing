@@ -26,4 +26,5 @@
 
 <p align="left">
 <a href="https://www.github.com/boeiing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a>
-<a href="https://www.linkedin.com/in/boeiing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a></p>
+
+
